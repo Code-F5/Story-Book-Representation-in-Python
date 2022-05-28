@@ -1,4 +1,5 @@
 # Story-Book-Representation-in-Python
+
 ## Built a comic book using Python :      
 <p align="left">
 </t> Use the main code blocks for your homework in cartoons-with-python-21.ipynb notebook, as well as some of the pictures. You'll have to make the code blocks work together to write a comic book in PDF format that consists of three pages of about 20 images each, with text.
